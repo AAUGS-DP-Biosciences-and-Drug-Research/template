@@ -1,5 +1,6 @@
 # graduate-doc-template
 
+
 This template repository renders the `README.md` file into a styled HTML page and a downloadable PDF using a Jinja2 template and WeasyPrint. It is fully automated via GitHub Actions and designed to be reused across graduate school documentation categories.
 
 ## 🚀 Features
